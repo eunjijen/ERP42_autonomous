@@ -1,0 +1,119 @@
+﻿//{{NO_DEPENDENCIES}}
+// Microsoft Visual C++에서 생성한 포함 파일입니다.
+// ERP42.rc에서 사용되고 있습니다.
+//
+#define IDM_ABOUTBOX                    0x0010
+#define IDD_ABOUTBOX                    100
+#define IDS_ABOUTBOX                    101
+#define IDD_ERP_42_DIALOG               102
+#define IDR_MAINFRAME                   128
+#define IDR_MENU_ERP42                  131
+#define IDC_EDIT3                       1004
+#define IDC_EDIT_RX_S                   1004
+#define IDC_RADIO1                      1006
+#define IDC_RADIO_TX_AUTO               1006
+#define IDC_RADIO5                      1007
+#define IDC_RADIO_TX_D                  1007
+#define IDC_COMBO_TX_SPEED              1019
+#define IDC_COMBO_TX_STEER              1020
+#define IDC_COMBO_TX_BRAKE              1021
+#define IDC_SPIN_TX_SPEED               1026
+#define IDC_SPIN_STEER                  1028
+#define IDC_SPIN_BRAKE                  1029
+#define IDC_EDIT_TX_STEER11             1030
+#define IDC_EDIT4                       1049
+#define IDC_EDIT_RX_T                   1049
+#define IDC_EDIT5                       1050
+#define IDC_EDIT_RX_X                   1050
+#define IDC_EDIT6                       1051
+#define IDC_EDIT_RX_AorM                1051
+#define IDC_EDIT7                       1052
+#define IDC_EDIT_RX_ESTOP               1052
+#define IDC_EDIT8                       1053
+#define IDC_EDIT_RX_GEAR                1053
+#define IDC_EDIT9                       1054
+#define IDC_EDIT_RX_SPEED0              1054
+#define IDC_EDIT10                      1055
+#define IDC_EDIT_RX_SPEED1              1055
+#define IDC_EDIT11                      1056
+#define IDC_EDIT_RX_STEER0              1056
+#define IDC_EDIT12                      1057
+#define IDC_EDIT_RX_STEER1              1057
+#define IDC_EDIT13                      1058
+#define IDC_EDIT_RX_BRAKE               1058
+#define IDC_EDIT14                      1059
+#define IDC_EDIT_RX_ENC0                1059
+#define IDC_EDIT15                      1060
+#define IDC_EDIT_RX_ENC1                1060
+#define IDC_EDIT16                      1061
+#define IDC_EDIT_RX_ENC2                1061
+#define IDC_EDIT17                      1062
+#define IDC_EDIT_RX_ENC3                1062
+#define IDC_EDIT18                      1063
+#define IDC_EDIT_RX_ALIVE               1063
+#define IDC_EDIT19                      1064
+#define IDC_EDIT_RX_ETX0                1064
+#define IDC_EDIT20                      1065
+#define IDC_EDIT_RX_ETX1                1065
+#define IDC_EDIT21                      1066
+#define IDC_EDIT_TX_S                   1066
+#define IDC_EDIT22                      1067
+#define IDC_EDIT_TX_T                   1067
+#define IDC_EDIT23                      1068
+#define IDC_EDIT_TX_X                   1068
+#define IDC_EDIT24                      1069
+#define IDC_EDIT_TX_AorM                1069
+#define IDC_EDIT25                      1070
+#define IDC_EDIT_TX_ESTOP               1070
+#define IDC_EDIT26                      1071
+#define IDC_EDIT_TX_GEAR                1071
+#define IDC_EDIT27                      1072
+#define IDC_EDIT_TX_SPEED0              1072
+#define IDC_EDIT28                      1073
+#define IDC_EDIT_TX_SPEED1              1073
+#define IDC_EDIT29                      1074
+#define IDC_EDIT_TX_STEER0              1074
+#define IDC_EDIT30                      1075
+#define IDC_EDIT_TX_STEER1              1075
+#define IDC_EDIT31                      1076
+#define IDC_EDIT_TX_BRAKE               1076
+#define IDC_EDIT32                      1077
+#define IDC_EDIT_TX_ALIVE               1077
+#define IDC_EDIT33                      1078
+#define IDC_EDIT_TX_ETX0                1078
+#define IDC_EDIT34                      1079
+#define IDC_EDIT_TX_ETX1                1079
+#define IDC_RADIO2                      1080
+#define IDC_RADIO_TX_MANUAL             1080
+#define IDC_RADIO3                      1081
+#define IDC_RADIO_TX_ON                 1081
+#define IDC_RADIO4                      1082
+#define IDC_RADIO_TX_OFF                1082
+#define IDC_RADIO6                      1083
+#define IDC_RADIO_TX_N                  1083
+#define IDC_RADIO7                      1084
+#define IDC_RADIO_TX_R                  1084
+#define ID_32771                        32771
+#define ID_COM_COM1                     32772
+#define ID_COM_COM2                     32773
+#define ID_COM_COM3                     32774
+#define ID_COM_COM4                     32775
+#define ID_COM_COM5                     32776
+#define ID_COM_COM6                     32777
+#define ID_COM_COM7                     32778
+#define ID_COM_COM8                     32779
+#define ID_COM_COM9                     32780
+#define ID_COM_COM10                    32781
+#define ID_COM_COM11                    32782
+#define ID_COM_COM12                    32783
+
+// Next default values for new objects
+// 
+#ifdef APSTUDIO_INVOKED
+#ifndef APSTUDIO_READONLY_SYMBOLS
+#define _APS_NEXT_RESOURCE_VALUE        132
+#define _APS_NEXT_COMMAND_VALUE         32784
+#define _APS_NEXT_CONTROL_VALUE         1032
+#define _APS_NEXT_SYMED_VALUE           101
+#endif
+#endif
